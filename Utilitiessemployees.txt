@@ -1,0 +1,2 @@
+firstName:Pesho;lastName:Vasilev;email:pesho@as.da;birthday:12/16/1996;hourlyRate:20;type:2;
+firstName:Darito;lastName:Yordanova;email:dari@dan.co;birthday:7/19/1998;hourlyRate:21;type:4;
